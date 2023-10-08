@@ -36,6 +36,7 @@ export default {
     
     ],
     socialLinks: [
+        { icon: "linkedin", link: "https://linkedin.conm/company/upfxapp" },
         { icon: "youtube", link: "https://youtube.com/@upfxapp" },
         { icon: "twitter", link: "https://twitter.com/company/upfxapp" },
     ],
