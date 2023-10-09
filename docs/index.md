@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: upfx
-  text: allow your organisation to get out of Jira it needs and deserves... 
+  text: get out of Jira you need most
   image:
     src: /logo.png
     alt: upfx.app logo
